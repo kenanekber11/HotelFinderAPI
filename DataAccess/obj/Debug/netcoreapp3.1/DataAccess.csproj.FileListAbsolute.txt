@@ -1,0 +1,15 @@
+C:\Users\Kenan\source\repos\HotelFinderKYD\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.deps.json
+C:\Users\Kenan\source\repos\HotelFinderKYD\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.runtimeconfig.json
+C:\Users\Kenan\source\repos\HotelFinderKYD\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.runtimeconfig.dev.json
+C:\Users\Kenan\source\repos\HotelFinderKYD\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.dll
+C:\Users\Kenan\source\repos\HotelFinderKYD\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.pdb
+C:\Users\Kenan\source\repos\HotelFinderKYD\DataAccess\bin\Debug\netcoreapp3.1\HotelFinder.Entities.dll
+C:\Users\Kenan\source\repos\HotelFinderKYD\DataAccess\bin\Debug\netcoreapp3.1\HotelFinder.Entities.pdb
+C:\Users\Kenan\source\repos\HotelFinderKYD\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csproj.AssemblyReference.cache
+C:\Users\Kenan\source\repos\HotelFinderKYD\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kenan\source\repos\HotelFinderKYD\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.AssemblyInfoInputs.cache
+C:\Users\Kenan\source\repos\HotelFinderKYD\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.AssemblyInfo.cs
+C:\Users\Kenan\source\repos\HotelFinderKYD\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Kenan\source\repos\HotelFinderKYD\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.dll
+C:\Users\Kenan\source\repos\HotelFinderKYD\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.pdb
+C:\Users\Kenan\source\repos\HotelFinderKYD\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.genruntimeconfig.cache
